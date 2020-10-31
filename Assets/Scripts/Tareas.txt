@@ -1,0 +1,13 @@
+Cosas por hacer:
++ Movimiento -> Por click : Anaís
+- Interacción con objetos -> Por click : Pilar
+- Movimiento de cámara : Pilar
+- Puzzles -> Animación/Feedback : Anaís
+  - Interactuar con algo
+  - Recoger un objeto y usarlo en otro
++ Diálogos : Anaís
+- Scripts pequeños para los fondos : Pilar
+
+- Pantalla de Menú
+- Creditos
+

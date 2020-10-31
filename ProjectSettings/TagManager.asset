@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - TextBox
+  - Item
+  - Interactable
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Interactables
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 3740717291
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Behind Character
+    uniqueID: 3969249507
+    locked: 0
+  - name: Characters
+    uniqueID: 1974570121
+    locked: 0
+  - name: Above Character
+    uniqueID: 2712781255
+    locked: 0
+  - name: Foreground
+    uniqueID: 505007443
+    locked: 0
